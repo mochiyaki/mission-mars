@@ -1,0 +1,362 @@
+[
+ {
+  "attempt": 1,
+  "file": "attempts/attempt_001.json",
+  "outcome": "fail",
+  "score": 46.1,
+  "skill_version": 1,
+  "reason": "fell on slope 0.53",
+  "targets_visited": 1
+ },
+ {
+  "attempt": 2,
+  "file": "attempts/attempt_002.json",
+  "outcome": "fail",
+  "score": 27.6,
+  "skill_version": 2,
+  "reason": "fell on slope 0.83",
+  "targets_visited": 0
+ },
+ {
+  "attempt": 3,
+  "file": "attempts/attempt_003.json",
+  "outcome": "fail",
+  "score": 27.7,
+  "skill_version": 2,
+  "reason": "fell on slope 0.68",
+  "targets_visited": 0
+ },
+ {
+  "attempt": 4,
+  "file": "attempts/attempt_004.json",
+  "outcome": "fail",
+  "score": 27.3,
+  "skill_version": 4,
+  "reason": "fell on slope 0.56",
+  "targets_visited": 0
+ },
+ {
+  "attempt": 5,
+  "file": "attempts/attempt_005.json",
+  "outcome": "success",
+  "score": 148.3,
+  "skill_version": 4,
+  "reason": "mission complete",
+  "targets_visited": 4
+ },
+ {
+  "attempt": 6,
+  "file": "attempts/attempt_006.json",
+  "outcome": "fail",
+  "score": 27.1,
+  "skill_version": 4,
+  "reason": "fell on slope 0.77",
+  "targets_visited": 0
+ },
+ {
+  "attempt": 7,
+  "file": "attempts/attempt_007.json",
+  "outcome": "fail",
+  "score": 27.2,
+  "skill_version": 7,
+  "reason": "fell on slope 0.69",
+  "targets_visited": 0
+ },
+ {
+  "attempt": 8,
+  "file": "attempts/attempt_008.json",
+  "outcome": "fail",
+  "score": 26.7,
+  "skill_version": 8,
+  "reason": "fell on slope 0.89",
+  "targets_visited": 0
+ },
+ {
+  "attempt": 9,
+  "file": "attempts/attempt_009.json",
+  "outcome": "fail",
+  "score": 27.9,
+  "skill_version": 8,
+  "reason": "fell on slope 0.68",
+  "targets_visited": 0
+ },
+ {
+  "attempt": 10,
+  "file": "attempts/attempt_010.json",
+  "outcome": "fail",
+  "score": 49.1,
+  "skill_version": 10,
+  "reason": "fell on slope 0.68",
+  "targets_visited": 1
+ },
+ {
+  "attempt": 11,
+  "file": "attempts/attempt_011.json",
+  "outcome": "fail",
+  "score": 27.6,
+  "skill_version": 10,
+  "reason": "fell on slope 0.56",
+  "targets_visited": 0
+ },
+ {
+  "attempt": 12,
+  "file": "attempts/attempt_012.json",
+  "outcome": "success",
+  "score": 150.9,
+  "skill_version": 12,
+  "reason": "mission complete",
+  "targets_visited": 4
+ },
+ {
+  "attempt": 13,
+  "file": "attempts/attempt_013.json",
+  "outcome": "fail",
+  "score": 27.6,
+  "skill_version": 12,
+  "reason": "fell on slope 0.56",
+  "targets_visited": 0
+ },
+ {
+  "attempt": 14,
+  "file": "attempts/attempt_014.json",
+  "outcome": "success",
+  "score": 151.9,
+  "skill_version": 14,
+  "reason": "mission complete",
+  "targets_visited": 4
+ },
+ {
+  "attempt": 15,
+  "file": "attempts/attempt_015.json",
+  "outcome": "success",
+  "score": 151.9,
+  "skill_version": 14,
+  "reason": "mission complete",
+  "targets_visited": 4
+ },
+ {
+  "attempt": 16,
+  "file": "attempts/attempt_016.json",
+  "outcome": "success",
+  "score": 151.9,
+  "skill_version": 14,
+  "reason": "mission complete",
+  "targets_visited": 4
+ },
+ {
+  "attempt": 17,
+  "file": "attempts/attempt_017.json",
+  "outcome": "success",
+  "score": 151.9,
+  "skill_version": 14,
+  "reason": "mission complete",
+  "targets_visited": 4
+ },
+ {
+  "attempt": 18,
+  "file": "attempts/attempt_018.json",
+  "outcome": "success",
+  "score": 150.1,
+  "skill_version": 18,
+  "reason": "mission complete",
+  "targets_visited": 4
+ },
+ {
+  "attempt": 19,
+  "file": "attempts/attempt_019.json",
+  "outcome": "success",
+  "score": 151.9,
+  "skill_version": 18,
+  "reason": "mission complete",
+  "targets_visited": 4
+ },
+ {
+  "attempt": 20,
+  "file": "attempts/attempt_020.json",
+  "outcome": "success",
+  "score": 151.9,
+  "skill_version": 18,
+  "reason": "mission complete",
+  "targets_visited": 4
+ },
+ {
+  "attempt": 21,
+  "file": "attempts/attempt_021.json",
+  "outcome": "success",
+  "score": 151.9,
+  "skill_version": 18,
+  "reason": "mission complete",
+  "targets_visited": 4
+ },
+ {
+  "attempt": 22,
+  "file": "attempts/attempt_022.json",
+  "outcome": "success",
+  "score": 151.9,
+  "skill_version": 18,
+  "reason": "mission complete",
+  "targets_visited": 4
+ },
+ {
+  "attempt": 23,
+  "file": "attempts/attempt_023.json",
+  "outcome": "success",
+  "score": 151.9,
+  "skill_version": 18,
+  "reason": "mission complete",
+  "targets_visited": 4
+ },
+ {
+  "attempt": 24,
+  "file": "attempts/attempt_024.json",
+  "outcome": "success",
+  "score": 151.9,
+  "skill_version": 18,
+  "reason": "mission complete",
+  "targets_visited": 4
+ },
+ {
+  "attempt": 25,
+  "file": "attempts/attempt_025.json",
+  "outcome": "fail",
+  "score": 28.2,
+  "skill_version": 18,
+  "reason": "fell on slope 0.66",
+  "targets_visited": 0
+ },
+ {
+  "attempt": 26,
+  "file": "attempts/attempt_026.json",
+  "outcome": "fail",
+  "score": 28.2,
+  "skill_version": 26,
+  "reason": "fell on slope 0.66",
+  "targets_visited": 0
+ },
+ {
+  "attempt": 27,
+  "file": "attempts/attempt_027.json",
+  "outcome": "success",
+  "score": 152.0,
+  "skill_version": 26,
+  "reason": "mission complete",
+  "targets_visited": 4
+ },
+ {
+  "attempt": 28,
+  "file": "attempts/attempt_028.json",
+  "outcome": "success",
+  "score": 152.0,
+  "skill_version": 26,
+  "reason": "mission complete",
+  "targets_visited": 4
+ },
+ {
+  "attempt": 29,
+  "file": "attempts/attempt_029.json",
+  "outcome": "fail",
+  "score": 28.2,
+  "skill_version": 26,
+  "reason": "fell on slope 0.66",
+  "targets_visited": 0
+ },
+ {
+  "attempt": 30,
+  "file": "attempts/attempt_030.json",
+  "outcome": "success",
+  "score": 152.0,
+  "skill_version": 30,
+  "reason": "mission complete",
+  "targets_visited": 4
+ },
+ {
+  "attempt": 31,
+  "file": "attempts/attempt_031.json",
+  "outcome": "success",
+  "score": 152.0,
+  "skill_version": 30,
+  "reason": "mission complete",
+  "targets_visited": 4
+ },
+ {
+  "attempt": 32,
+  "file": "attempts/attempt_032.json",
+  "outcome": "fail",
+  "score": 28.2,
+  "skill_version": 30,
+  "reason": "fell on slope 0.66",
+  "targets_visited": 0
+ },
+ {
+  "attempt": 33,
+  "file": "attempts/attempt_033.json",
+  "outcome": "success",
+  "score": 152.0,
+  "skill_version": 30,
+  "reason": "mission complete",
+  "targets_visited": 4
+ },
+ {
+  "attempt": 34,
+  "file": "attempts/attempt_034.json",
+  "outcome": "success",
+  "score": 152.0,
+  "skill_version": 30,
+  "reason": "mission complete",
+  "targets_visited": 4
+ },
+ {
+  "attempt": 35,
+  "file": "attempts/attempt_035.json",
+  "outcome": "fail",
+  "score": 28.2,
+  "skill_version": 35,
+  "reason": "fell on slope 0.66",
+  "targets_visited": 0
+ },
+ {
+  "attempt": 36,
+  "file": "attempts/attempt_036.json",
+  "outcome": "success",
+  "score": 152.0,
+  "skill_version": 35,
+  "reason": "mission complete",
+  "targets_visited": 4
+ },
+ {
+  "attempt": 37,
+  "file": "attempts/attempt_037.json",
+  "outcome": "fail",
+  "score": 28.2,
+  "skill_version": 35,
+  "reason": "fell on slope 0.66",
+  "targets_visited": 0
+ },
+ {
+  "attempt": 38,
+  "file": "attempts/attempt_038.json",
+  "outcome": "fail",
+  "score": 48.6,
+  "skill_version": 35,
+  "reason": "fell on slope 0.66",
+  "targets_visited": 1
+ },
+ {
+  "attempt": 39,
+  "file": "attempts/attempt_039.json",
+  "outcome": "success",
+  "score": 151.3,
+  "skill_version": 39,
+  "reason": "mission complete",
+  "targets_visited": 4
+ },
+ {
+  "attempt": 40,
+  "file": "attempts/attempt_040.json",
+  "outcome": "fail",
+  "score": 48.5,
+  "skill_version": 39,
+  "reason": "fell on slope 0.57",
+  "targets_visited": 1
+ }
+]

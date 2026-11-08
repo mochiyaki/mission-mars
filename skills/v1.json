@@ -1,0 +1,9 @@
+{
+ "version": 1,
+ "max_slope": 0.9,
+ "slope_weight": 1.0,
+ "energy_reserve": 20.0,
+ "replan_every": 6,
+ "hazard_penalty": 8.0,
+ "note": "initial bold explorer"
+}

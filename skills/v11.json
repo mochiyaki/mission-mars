@@ -1,0 +1,10 @@
+{
+ "version": 11,
+ "max_slope": 0.675,
+ "slope_weight": 18.88,
+ "energy_reserve": 20.0,
+ "replan_every": 6,
+ "hazard_penalty": 8.0,
+ "note": "lower max_slope 0.90 -> 0.68 (fall)",
+ "decision": "ROLLED BACK"
+}

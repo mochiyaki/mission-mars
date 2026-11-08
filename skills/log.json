@@ -1,0 +1,362 @@
+[
+ {
+  "after_attempt": 1,
+  "from_version": 1,
+  "candidate_version": 2,
+  "change": "raise slope_weight 1.00 -> 1.80 (fall)",
+  "heldout_current": 87.69,
+  "heldout_candidate": 99.44,
+  "decision": "ADOPTED"
+ },
+ {
+  "after_attempt": 2,
+  "from_version": 2,
+  "candidate_version": 3,
+  "change": "lower max_slope 0.90 -> 0.68 (fall)",
+  "heldout_current": 117.18,
+  "heldout_candidate": 94.89,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 3,
+  "from_version": 2,
+  "candidate_version": 4,
+  "change": "raise slope_weight 1.80 -> 3.24 (fall)",
+  "heldout_current": 77.81,
+  "heldout_candidate": 110.24,
+  "decision": "ADOPTED"
+ },
+ {
+  "after_attempt": 4,
+  "from_version": 4,
+  "candidate_version": 5,
+  "change": "lower max_slope 0.90 -> 0.68 (fall)",
+  "heldout_current": 129.99,
+  "heldout_candidate": 120.12,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 5,
+  "from_version": 4,
+  "candidate_version": 6,
+  "change": "tune replan_every 6 -> 8",
+  "heldout_current": 92.03,
+  "heldout_candidate": 92.02,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 6,
+  "from_version": 4,
+  "candidate_version": 7,
+  "change": "raise slope_weight 3.24 -> 5.83 (fall)",
+  "heldout_current": 117.08,
+  "heldout_candidate": 124.09,
+  "decision": "ADOPTED"
+ },
+ {
+  "after_attempt": 7,
+  "from_version": 7,
+  "candidate_version": 8,
+  "change": "raise slope_weight 5.83 -> 10.49 (fall)",
+  "heldout_current": 117.7,
+  "heldout_candidate": 123.86,
+  "decision": "ADOPTED"
+ },
+ {
+  "after_attempt": 8,
+  "from_version": 8,
+  "candidate_version": 9,
+  "change": "raise slope_weight 10.49 -> 18.88 (fall)",
+  "heldout_current": 123.92,
+  "heldout_candidate": 111.74,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 9,
+  "from_version": 8,
+  "candidate_version": 10,
+  "change": "raise slope_weight 10.49 -> 18.88 (fall)",
+  "heldout_current": 120.15,
+  "heldout_candidate": 132.18,
+  "decision": "ADOPTED"
+ },
+ {
+  "after_attempt": 10,
+  "from_version": 10,
+  "candidate_version": 11,
+  "change": "lower max_slope 0.90 -> 0.68 (fall)",
+  "heldout_current": 121.68,
+  "heldout_candidate": 121.4,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 11,
+  "from_version": 10,
+  "candidate_version": 12,
+  "change": "raise slope_weight 18.88 -> 33.98 (fall)",
+  "heldout_current": 101.41,
+  "heldout_candidate": 109.87,
+  "decision": "ADOPTED"
+ },
+ {
+  "after_attempt": 12,
+  "from_version": 12,
+  "candidate_version": 13,
+  "change": "tune replan_every 6 -> 4",
+  "heldout_current": 125.69,
+  "heldout_candidate": 125.66,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 13,
+  "from_version": 12,
+  "candidate_version": 14,
+  "change": "lower max_slope 0.90 -> 0.68 (fall)",
+  "heldout_current": 121.59,
+  "heldout_candidate": 131.46,
+  "decision": "ADOPTED"
+ },
+ {
+  "after_attempt": 14,
+  "from_version": 14,
+  "candidate_version": 15,
+  "change": "tune replan_every 6 -> 8",
+  "heldout_current": 143.61,
+  "heldout_candidate": 133.16,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 15,
+  "from_version": 14,
+  "candidate_version": 16,
+  "change": "tune replan_every 6 -> 4",
+  "heldout_current": 135.36,
+  "heldout_candidate": 115.33,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 16,
+  "from_version": 14,
+  "candidate_version": 17,
+  "change": "tune hazard_penalty 8.0 -> 4.8",
+  "heldout_current": 137.54,
+  "heldout_candidate": 137.37,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 17,
+  "from_version": 14,
+  "candidate_version": 18,
+  "change": "tune replan_every 6 -> 4",
+  "heldout_current": 123.41,
+  "heldout_candidate": 131.43,
+  "decision": "ADOPTED"
+ },
+ {
+  "after_attempt": 18,
+  "from_version": 18,
+  "candidate_version": 19,
+  "change": "tune hazard_penalty 8.0 -> 12.8",
+  "heldout_current": 143.58,
+  "heldout_candidate": 143.58,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 19,
+  "from_version": 18,
+  "candidate_version": 20,
+  "change": "tune hazard_penalty 8.0 -> 12.8",
+  "heldout_current": 112.44,
+  "heldout_candidate": 112.44,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 20,
+  "from_version": 18,
+  "candidate_version": 21,
+  "change": "tune hazard_penalty 8.0 -> 4.8",
+  "heldout_current": 131.43,
+  "heldout_candidate": 131.26,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 21,
+  "from_version": 18,
+  "candidate_version": 22,
+  "change": "tune hazard_penalty 8.0 -> 4.8",
+  "heldout_current": 129.19,
+  "heldout_candidate": 129.29,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 22,
+  "from_version": 18,
+  "candidate_version": 23,
+  "change": "tune replan_every 4 -> 6",
+  "heldout_current": 123.75,
+  "heldout_candidate": 123.88,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 23,
+  "from_version": 18,
+  "candidate_version": 24,
+  "change": "tune hazard_penalty 8.0 -> 4.8",
+  "heldout_current": 123.4,
+  "heldout_candidate": 123.59,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 24,
+  "from_version": 18,
+  "candidate_version": 25,
+  "change": "tune replan_every 4 -> 6",
+  "heldout_current": 125.48,
+  "heldout_candidate": 115.82,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 25,
+  "from_version": 18,
+  "candidate_version": 26,
+  "change": "raise slope_weight 33.98 -> 61.16 (fall)",
+  "heldout_current": 109.62,
+  "heldout_candidate": 114.6,
+  "decision": "ADOPTED"
+ },
+ {
+  "after_attempt": 26,
+  "from_version": 26,
+  "candidate_version": 27,
+  "change": "raise slope_weight 61.16 -> 110.09 (fall)",
+  "heldout_current": 120.14,
+  "heldout_candidate": 120.53,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 27,
+  "from_version": 26,
+  "candidate_version": 28,
+  "change": "tune hazard_penalty 8.0 -> 12.8",
+  "heldout_current": 126.4,
+  "heldout_candidate": 126.58,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 28,
+  "from_version": 26,
+  "candidate_version": 29,
+  "change": "tune replan_every 4 -> 2",
+  "heldout_current": 130.24,
+  "heldout_candidate": 120.63,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 29,
+  "from_version": 26,
+  "candidate_version": 30,
+  "change": "raise slope_weight 61.16 -> 110.09 (fall)",
+  "heldout_current": 130.24,
+  "heldout_candidate": 130.81,
+  "decision": "ADOPTED"
+ },
+ {
+  "after_attempt": 30,
+  "from_version": 30,
+  "candidate_version": 31,
+  "change": "tune replan_every 4 -> 6",
+  "heldout_current": 109.28,
+  "heldout_candidate": 109.26,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 31,
+  "from_version": 30,
+  "candidate_version": 32,
+  "change": "tune replan_every 4 -> 2",
+  "heldout_current": 109.28,
+  "heldout_candidate": 109.27,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 32,
+  "from_version": 30,
+  "candidate_version": 33,
+  "change": "raise slope_weight 110.09 -> 198.16 (fall)",
+  "heldout_current": 142.95,
+  "heldout_candidate": 141.91,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 33,
+  "from_version": 30,
+  "candidate_version": 34,
+  "change": "tune hazard_penalty 8.0 -> 12.8",
+  "heldout_current": 121.19,
+  "heldout_candidate": 121.19,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 34,
+  "from_version": 30,
+  "candidate_version": 35,
+  "change": "tune replan_every 4 -> 6",
+  "heldout_current": 120.48,
+  "heldout_candidate": 130.81,
+  "decision": "ADOPTED"
+ },
+ {
+  "after_attempt": 35,
+  "from_version": 35,
+  "candidate_version": 36,
+  "change": "raise slope_weight 110.09 -> 198.16 (fall)",
+  "heldout_current": 115.1,
+  "heldout_candidate": 114.8,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 36,
+  "from_version": 35,
+  "candidate_version": 37,
+  "change": "tune replan_every 6 -> 8",
+  "heldout_current": 126.9,
+  "heldout_candidate": 126.7,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 37,
+  "from_version": 35,
+  "candidate_version": 38,
+  "change": "lower max_slope 0.68 -> 0.51 (fall)",
+  "heldout_current": 126.91,
+  "heldout_candidate": 123.34,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 38,
+  "from_version": 35,
+  "candidate_version": 39,
+  "change": "raise slope_weight 110.09 -> 198.16 (fall)",
+  "heldout_current": 117.58,
+  "heldout_candidate": 121.19,
+  "decision": "ADOPTED"
+ },
+ {
+  "after_attempt": 39,
+  "from_version": 39,
+  "candidate_version": 40,
+  "change": "tune replan_every 6 -> 4",
+  "heldout_current": 114.8,
+  "heldout_candidate": 114.0,
+  "decision": "ROLLED BACK"
+ },
+ {
+  "after_attempt": 40,
+  "from_version": 39,
+  "candidate_version": 41,
+  "change": "raise slope_weight 198.16 -> 356.69 (fall)",
+  "heldout_current": 130.3,
+  "heldout_candidate": 133.83,
+  "decision": "ADOPTED"
+ }
+]

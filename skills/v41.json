@@ -1,0 +1,10 @@
+{
+ "version": 41,
+ "max_slope": 0.675,
+ "slope_weight": 356.69,
+ "energy_reserve": 20.0,
+ "replan_every": 6,
+ "hazard_penalty": 8.0,
+ "note": "raise slope_weight 198.16 -> 356.69 (fall)",
+ "decision": "ADOPTED"
+}

@@ -1,0 +1,99 @@
+{
+ "outcome": "fail",
+ "reason": "fell on slope 0.77",
+ "score": 27.1,
+ "targets_visited": 0,
+ "battery_left": 90.4,
+ "steps": 12,
+ "path": [
+  [
+   30,
+   30,
+   0.163
+  ],
+  [
+   31,
+   31,
+   0.03
+  ],
+  [
+   32,
+   32,
+   -0.073
+  ],
+  [
+   33,
+   33,
+   -0.134
+  ],
+  [
+   34,
+   34,
+   -0.147
+  ],
+  [
+   35,
+   35,
+   0.052
+  ],
+  [
+   36,
+   36,
+   0.445
+  ],
+  [
+   37,
+   37,
+   0.985
+  ],
+  [
+   38,
+   38,
+   0.788
+  ],
+  [
+   39,
+   39,
+   0.205
+  ],
+  [
+   40,
+   40,
+   0.059
+  ],
+  [
+   41,
+   41,
+   0.058
+  ],
+  [
+   42,
+   41,
+   -0.712
+  ]
+ ],
+ "events": [
+  {
+   "step": 12,
+   "pos": [
+    42,
+    41
+   ],
+   "type": "fall",
+   "slope": 0.771
+  }
+ ],
+ "attempt": 6,
+ "skill_version": 4,
+ "skill": {
+  "version": 4,
+  "max_slope": 0.9,
+  "slope_weight": 3.24,
+  "energy_reserve": 20.0,
+  "replan_every": 6,
+  "hazard_penalty": 8.0,
+  "note": "raise slope_weight 1.80 -> 3.24 (fall)",
+  "decision": "ADOPTED"
+ },
+ "time": "16:19:39"
+}

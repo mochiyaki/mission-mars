@@ -1,0 +1,10 @@
+{
+ "version": 20,
+ "max_slope": 0.675,
+ "slope_weight": 33.98,
+ "energy_reserve": 20.0,
+ "replan_every": 4,
+ "hazard_penalty": 12.8,
+ "note": "tune hazard_penalty 8.0 -> 12.8",
+ "decision": "ROLLED BACK"
+}
